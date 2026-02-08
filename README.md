@@ -15,6 +15,6 @@ Un tableau de bord en bash, conçu pour afficher en temps réel les statistiques
 ## Installation
 
 ```bash
-git clone https://github.com/Crabouille777/pironman-dashboard.git
+git clone https://github.com/mp-weblab/pironman_dashboard.git
 cd pironman-dashboard
 chmod +x pironman_dashboard.sh
