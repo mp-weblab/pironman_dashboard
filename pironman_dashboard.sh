@@ -4,7 +4,7 @@
 # Version: 1.0.0
 # Author: mp-weblab.com
 # Author URI: https://mp-weblab.com
-# License: GPLv3
+# License: GPLv2+
 # License URI: https://www.gnu.org/licenses/gpl-3.0.html
 #  Note de l'auteur :
 # Ce script est distribué gratuitement dans un esprit de partage.
