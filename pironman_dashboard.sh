@@ -7,9 +7,9 @@
 # License: GPLv3
 # License URI: https://www.gnu.org/licenses/gpl-3.0.html
 #  Note de l'auteur :
-# Ce plugin est distribué gratuitement dans un esprit de partage.
+# Ce script est distribué gratuitement dans un esprit de partage.
 # Merci de ne pas le vendre ou monétiser sous une forme quelconque.
-# Tout contributeur peut inscrire son nom dans ce code ici :
+# Tout contributeur peut inscrire son nom dans ce script ici :
 # Contributors : --- your-name-here ---
 
 # Couleurs
